@@ -1,0 +1,26 @@
+{
+  "name": "whisper",
+  "displayName": "Whisper",
+  "description": "Elegant and implicit theme tailored for Go",
+  "version": "0.1.0",
+  "publisher": "skyrocket-qy",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Whisper",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skyrocket-qy/Whisper"
+  }
+}
