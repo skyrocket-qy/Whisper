@@ -2,7 +2,7 @@
   "name": "whisper",
   "displayName": "Whisper",
   "description": "Elegant and implicit theme tailored for Go",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "skyrocket-qy",
   "engines": {
     "vscode": "^1.80.0"
