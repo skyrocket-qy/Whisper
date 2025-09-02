@@ -155,7 +155,7 @@
     "editorGutter.commentGlyphForeground": "#cba6f7",
     "editorGutter.deletedBackground": "#f38ba8",
     "editorGutter.foldingControlForeground": "#9399b2",
-    "editorGutter.modifiedBackground": "#D7A16D",
+    "editorGutter.modifiedBackground": "#4FC3F7",
     "editorHoverWidget.background": "#181825",
     "editorHoverWidget.border": "#585b70",
     "editorHoverWidget.foreground": "#cdd6f4",
